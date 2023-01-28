@@ -1,2 +1,7 @@
 # all .css files
 *.css
+
+high.py
+
+#all .py files
+*.py
